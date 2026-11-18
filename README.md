@@ -1,3 +1,3 @@
 # conversor-sistemas-unia
 Conversor de Sistemas de Numeração — Projeto Académico UnIA
-Desenvolvimento por Milton Cabral, estudante do 1º ano do curso de informática de gestão de recursos, turca C1.
+Desenvolvido por Milton Cabral, estudante do 1º ano do curso de Informática de Gestão de Empresas, Turca C1.
